@@ -1,0 +1,19 @@
+{
+  "author": "Ritchie Martori",
+  "name": "obju",
+  "description": "Simple yet powerful extension to JavaScript's Object.prototype.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ritch/obju.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    mocha: '*',
+    chai: '*'
+  }
+}
