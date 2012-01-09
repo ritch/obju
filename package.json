@@ -13,7 +13,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    mocha: '*',
-    chai: '*'
+    mocha: "*",
+    chai: "*"
   }
 }
